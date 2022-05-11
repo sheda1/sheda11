@@ -3,3 +3,5 @@ Welcome
 student
 teacher
 
+chalk
+duster
