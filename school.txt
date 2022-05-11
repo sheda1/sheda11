@@ -3,6 +3,12 @@ Welcome
 student
 teacher
 
+
 chair
 bemch
 thank you
+
+chalk
+duster
+done
+
