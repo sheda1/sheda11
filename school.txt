@@ -3,5 +3,5 @@ Welcome
 student
 teacher
 
-chalk
-duster
+chair
+bemch
